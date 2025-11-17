@@ -1,0 +1,27 @@
+{
+  "name": "minecraft_non_player",
+  "version": "1.0.0",
+  "description": "Man of Simple Automate Iterator",
+  "homepage": "https://github.com/cyokozai/minecraft_non_player#readme",
+  "bugs": {
+    "url": "https://github.com/cyokozai/minecraft_non_player/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyokozai/minecraft_non_player.git"
+  },
+  "license": "ISC",
+  "author": "cyokozai",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "mineflayer": "^4.33.0"
+  }
+}
