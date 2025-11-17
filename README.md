@@ -21,6 +21,3 @@ Man of Simple Automate Iterator
    ```
 
 ## Architectures
-
-- Bot Roles
-   - 
