@@ -1,10 +1,13 @@
-// import { log } from 'console';
-// import mineflayer from 'mineflayer';
+import mineflayer from 'mineflayer';
 
-console.log(greeting);
 
-function greet(name: string): string {
-  return `こんにちは、${name}さん！`;
-}
+const mineflayer = require('mineflayer')
+const bot = mineflayer.createBot(options)
+  
+bot.on('spawn', () => {
 
-console.log(greet("太郎"));
+})
+
+bot.on('chat', (username, message) => {
+
+})
