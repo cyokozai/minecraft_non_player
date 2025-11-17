@@ -12,7 +12,7 @@ Man of Simple Automate Iterator
    npm init
    ```
 
-- Instalation
+- Installation
 
    ```bash
    npm install typescript --save-dev
@@ -20,3 +20,7 @@ Man of Simple Automate Iterator
    npm install mineflayer
    ```
 
+## Architectures
+
+- Bot Roles
+   - 
